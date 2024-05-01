@@ -1,0 +1,6 @@
+[submodule "animerecs-backend"]
+	path = animerecs-backend
+	url = ./animerecs-backend/
+[submodule "animerecs-frontend"]
+	path = animerecs-frontend
+	url = ./animerecs-frontend/
