@@ -4,3 +4,6 @@
 [submodule "animerecs-frontend"]
 	path = animerecs-frontend
 	url = https://github.com/Dev-Aligator/apriome
+[submodule "animerecs-engine"]
+	path = animerecs-engine
+	url = https://github.com/Dev-Aligator/animercs-engine
